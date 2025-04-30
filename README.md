@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Sc. in Computer Science graduate<br><br>🏫 Currently training at Brototype (intensive coding bootcamp)<br><br>💻 Full-Stack Developer<br><br>        Backend: Python, Django<br><br>        Frontend: React.js<br><br>🌱 Actively improving my skills and building real-world projects<br><br>🚀 Aspiring to transition into AI development in the future
+🎓 B.Sc. in Computer Science graduate<br>🏫 Currently training at Brototype (intensive coding bootcamp)<br><br>💻 Full-Stack Developer : Python, Django, DRF, React.js, Redux<br><br>🌱 Actively improving my skills and building real-world projects<br>🚀 Aspiring to transition into AI development in the future
 
 
 ## 🌐 Socials:
