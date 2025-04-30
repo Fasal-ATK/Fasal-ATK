@@ -1,5 +1,11 @@
-# 💫 About Me:
-🎓 B.Sc. in Computer Science graduate<br>🏫 Currently training at Brototype (intensive coding bootcamp)<br>💻 Full-Stack Developer : Python, Django, DRF, React.js, Redux<br>🌱 Actively improving my skills and building real-world projects<br>🚀 Aspiring to transition into AI development in the future
+## 💫 About Me  
+👋 Hey, I'm <strong>Fasal Rahman</strong> <br>
+🎓 B.Sc. in Computer Science graduate<br>
+🏫 Currently training at Brototype (intensive coding bootcamp)<br>
+💻 Full-Stack Developer – Python, Django, DRF, React.js, Redux<br>
+🌱 Actively improving my skills and building real-world projects<br>
+🚀 Aspiring to transition into AI development in the future<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fasal_atk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fasal-rahman-atk-0553a929b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fasalrahmanatk706@gmail.com) 
